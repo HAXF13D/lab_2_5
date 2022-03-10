@@ -1,0 +1,5 @@
+attrs==21.4.0
+click==8.0.4
+colorama==0.4.4
+jsonschema==4.4.0
+pyrsistent==0.18.1
